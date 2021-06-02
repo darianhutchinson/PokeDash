@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PokeDash/static/css/main.3be96a16.chunk.css",
+    "main.js": "/PokeDash/static/js/main.a4549b87.chunk.js",
+    "main.js.map": "/PokeDash/static/js/main.a4549b87.chunk.js.map",
+    "runtime-main.js": "/PokeDash/static/js/runtime-main.660c9c95.js",
+    "runtime-main.js.map": "/PokeDash/static/js/runtime-main.660c9c95.js.map",
+    "static/css/2.99d00376.chunk.css": "/PokeDash/static/css/2.99d00376.chunk.css",
+    "static/js/2.fe6a5b7a.chunk.js": "/PokeDash/static/js/2.fe6a5b7a.chunk.js",
+    "static/js/2.fe6a5b7a.chunk.js.map": "/PokeDash/static/js/2.fe6a5b7a.chunk.js.map",
+    "index.html": "/PokeDash/index.html",
+    "static/css/2.99d00376.chunk.css.map": "/PokeDash/static/css/2.99d00376.chunk.css.map",
+    "static/css/main.3be96a16.chunk.css.map": "/PokeDash/static/css/main.3be96a16.chunk.css.map",
+    "static/js/2.fe6a5b7a.chunk.js.LICENSE.txt": "/PokeDash/static/js/2.fe6a5b7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.660c9c95.js",
+    "static/css/2.99d00376.chunk.css",
+    "static/js/2.fe6a5b7a.chunk.js",
+    "static/css/main.3be96a16.chunk.css",
+    "static/js/main.a4549b87.chunk.js"
+  ]
+}
